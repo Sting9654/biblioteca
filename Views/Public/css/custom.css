@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.txt-bold {
+    font-family: "Inter", sans-serif;
+    color: #009FDF;
+    font-weight: 600;
+}
+
+.txt-light {
+    font-family: "Inter", sans-serif;
+    color: #212121;
+    font-weight: 300;
+}
+
+.txt-light:hover {
+    font-family: "Inter", sans-serif;
+    color: #009FDF;
+    font-weight: 300;
+}
+
+.txt-li {
+    font-family: "Inter", sans-serif;
+    color: #212121;
+    font-weight: 300;
+    text-decoration: none;
+}
+
+.txt-li:focus {
+    font-family: "Inter", sans-serif;
+    color: #FFB74D;
+    background-color: transparent;
+    font-weight: 300;
+}
+
+.txt-li:hover {
+    font-family: "Inter", sans-serif;
+    color: #FFB74D;
+    font-weight: 300;
+}
+
+.txt-bold:hover {
+    font-family: "Inter", sans-serif;
+    color: #00a0dfbe;
+    font-weight: 600;
+}
